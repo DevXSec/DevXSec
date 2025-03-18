@@ -44,14 +44,14 @@
 
 ## 🔗 Cybersecurity Profiles
 
-🔹 **Hack The Box:** [HTB Profile][(https://app.hackthebox.com/profile/1330655)]  
-🔹 **Root Me:** [RootMe Profile][(https://www.root-me.org/Draxuxe)]
+🔹 **Hack The Box:** [https://app.hackthebox.com/profile/1330655]  
+🔹 **Root Me:** [https://www.root-me.org/Draxuxe]
 
 ---
 
 ## 📩 Contact Me
 
 📧 **Email:** [louis.fillouxpv@gmail.com]  
-💼 **LinkedIn:** [(https://www.linkedin.com/in/louis-filloux-a67b55230/)]
+💼 **LinkedIn:** [https://www.linkedin.com/in/louis-filloux-a67b55230/]
 
 📢 *Feel free to follow me and contribute to my projects!* 🚀
