@@ -25,9 +25,7 @@
 
 ## 🔥 Key Projects
 
-🚀 **[Project 1](GitHub_Project_Link1)**: [Short catchy description]  
-🛡️ **[Project 2](GitHub_Project_Link2)**: [A cybersecurity-focused project]  
-💡 **[Project 3](GitHub_Project_Link3)**: [An innovative tool or open-source project]
+🛡️ **[Cyber and Dev Project]((https://github.com/DevXSec/SPFCheckr))**: [A cybersecurity-focused project for mail spoofing in PHP]  
 
 📌 *Check out all my projects [here](https://github.com/DevXSec?tab=repositories)!*
 
