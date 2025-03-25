@@ -25,7 +25,7 @@
 
 ## 🔥 Key Projects
 
-🛡️ **[Cyber Project](https://github.com/DevXSec/SPFCheckr)**: [A cybersecurity-focused project for mail spoofing in PHP]  
+🎭 **[SPFCheckr Project](https://github.com/DevXSec/SPFCheckr)**: [A cybersecurity-focused project for mail spoofing in PHP]  
 
 📌 *Check out all my projects [here](https://github.com/DevXSec?tab=repositories)!*
 
