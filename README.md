@@ -21,7 +21,7 @@
 
 💡 *Always learning and improving!*
 
-🌐 Check out my portfolio: [https://DevXSec.github.io/Portfolio](https://yourusername.github.io/Portfolio)
+🌐 Check out my portfolio: [https://DevXSec.github.io/Portfolio](https://DevXSec.github.io/Portfolio)
 
 ---
 
