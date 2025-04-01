@@ -26,7 +26,7 @@
 ## 🔥 Key Projects
 
 🎭 **[SPFCheckr Project](https://github.com/DevXSec/SPFCheckr)**: [A cybersecurity-focused project for mail spoofing in PHP]
-🎭 **[Revers3r Project](https://github.com/DevXSec/Revers3r)**: [A cybersecurity-focused project for multi-langage reverse shell generator]
+🛠️ **[Revers3r Project](https://github.com/DevXSec/Revers3r)**: [A cybersecurity-focused project for multi-langage reverse shell generator]
 
 📌 *Check out all my projects [here](https://github.com/DevXSec?tab=repositories)!*
 
