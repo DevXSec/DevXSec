@@ -31,6 +31,8 @@
 
 🛠️ **[Revers3r Project](https://github.com/DevXSec/Revers3r)**: [A cybersecurity-focused project for multi-langage reverse shell generator]
 
+🧩 **[TetriVerse Project](https://github.com/DevXSec/TetriVerse)**: [A multi-platform, customizable Tetris-inspired game universe – build, play, and expand the classic block puzzle experience]
+
 📌 *Check out all my projects [here](https://github.com/DevXSec?tab=repositories)!*
 
 ---
